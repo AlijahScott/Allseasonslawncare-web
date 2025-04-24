@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/allseasonslawncare/static/css/main.5823a5bc.css",
+    "main.js": "/allseasonslawncare/static/js/main.e2311997.js",
+    "static/js/453.69aa3c5f.chunk.js": "/allseasonslawncare/static/js/453.69aa3c5f.chunk.js",
+    "static/media/lawn1.jpg": "/allseasonslawncare/static/media/lawn1.52ab866cbe71d0f09842.jpg",
+    "index.html": "/allseasonslawncare/index.html",
+    "main.5823a5bc.css.map": "/allseasonslawncare/static/css/main.5823a5bc.css.map",
+    "main.e2311997.js.map": "/allseasonslawncare/static/js/main.e2311997.js.map",
+    "453.69aa3c5f.chunk.js.map": "/allseasonslawncare/static/js/453.69aa3c5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5823a5bc.css",
+    "static/js/main.e2311997.js"
+  ]
+}
